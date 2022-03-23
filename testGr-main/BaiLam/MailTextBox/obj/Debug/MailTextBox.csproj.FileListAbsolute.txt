@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\MailTextBox\bin\Debug\MailTextBox.dll
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\MailTextBox\bin\Debug\MailTextBox.pdb
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\MailTextBox\obj\Debug\MailTextBox.dll
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\MailTextBox\obj\Debug\MailTextBox.pdb
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\MailTextBox\bin\Debug\MailTextBox.dll
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\MailTextBox\bin\Debug\MailTextBox.pdb
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\MailTextBox\obj\Debug\MailTextBox.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\MailTextBox\obj\Debug\MailTextBox.dll
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\MailTextBox\obj\Debug\MailTextBox.pdb

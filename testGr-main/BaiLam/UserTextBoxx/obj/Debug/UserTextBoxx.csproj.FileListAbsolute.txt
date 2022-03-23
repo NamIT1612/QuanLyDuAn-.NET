@@ -1,0 +1,10 @@
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\UserTextBoxx\bin\Debug\UserTextBoxx.dll
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\UserTextBoxx\bin\Debug\UserTextBoxx.pdb
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\UserTextBoxx\obj\Debug\UserTextBoxx.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\UserTextBoxx\obj\Debug\UserTextBoxx.dll
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\UserTextBoxx\obj\Debug\UserTextBoxx.pdb
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\UserTextBoxx\bin\Debug\UserTextBoxx.dll
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\UserTextBoxx\bin\Debug\UserTextBoxx.pdb
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\UserTextBoxx\obj\Debug\UserTextBoxx.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\UserTextBoxx\obj\Debug\UserTextBoxx.dll
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\UserTextBoxx\obj\Debug\UserTextBoxx.pdb

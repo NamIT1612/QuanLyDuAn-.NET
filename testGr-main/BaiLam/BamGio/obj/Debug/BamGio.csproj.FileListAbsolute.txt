@@ -1,0 +1,13 @@
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\BamGio\bin\Debug\BamGio.dll
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\BamGio\bin\Debug\BamGio.pdb
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\BamGio\obj\Debug\BamGio.UserControl1.resources
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\BamGio\obj\Debug\BamGio.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\BamGio\obj\Debug\BamGio.dll
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\BamGio\obj\Debug\BamGio.pdb
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\BamGio\bin\Debug\BamGio.dll
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\BamGio\bin\Debug\BamGio.pdb
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\BamGio\obj\Debug\BamGio.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\BamGio\obj\Debug\BamGio.UserControl1.resources
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\BamGio\obj\Debug\BamGio.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\BamGio\obj\Debug\BamGio.dll
+C:\Users\Administrator\Desktop\testGr-main\BaiLam\BamGio\obj\Debug\BamGio.pdb
